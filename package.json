@@ -1,0 +1,14 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@faker-js/faker": "^9.5.1",
+    "csv-writer": "^1.6.0",
+    "exceljs": "^4.4.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
